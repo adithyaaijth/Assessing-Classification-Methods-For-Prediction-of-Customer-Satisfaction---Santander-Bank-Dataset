@@ -1,8 +1,9 @@
 # Assessing Classification Methods for Prediction of Customer Satisfaction - Santander Bank Dataset
 
-> The dataset was obtained from Kaggle.com.
+> The dataset - train.csv was obtained from Kaggle.com.
   I did this project as part of my TAMU course ISEN 613: Engineering Data Analysis.
   The detailed final report on the analysis is available in this repository.
+  The scprit.R has the R codes used to analyse the data.
 
 
 ### Importance of the problem
