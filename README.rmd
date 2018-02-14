@@ -1,5 +1,5 @@
-# Assessing-Classification-Methods-For-Prediction-of-Customer-Satisfaction---Santander-Bank-Dataset
-Based on  kaggle's dataset.
+# Assessing Classification Methods for Prediction of Customer Satisfaction - Santander Bank Dataset
+> Based on  kaggle's dataset.
 
 
 Importance of the problem:
